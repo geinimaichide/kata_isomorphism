@@ -1,3 +1,6 @@
+/**
+ * @author zhangwei
+ */
 public class Isomorphism {
     private final String one;
     private final String another;

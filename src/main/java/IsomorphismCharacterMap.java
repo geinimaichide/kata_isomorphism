@@ -1,7 +1,9 @@
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author zhangwei
+ */
 public class IsomorphismCharacterMap {
 
     private HashMap<Character, Character> map;
