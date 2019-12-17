@@ -11,9 +11,9 @@ import static org.junit.Assert.assertThat;
  * 1、最小步子，输入 a、b 返回true                 √
  * 2、验证，输入 ab 、 b 返回 false，同构长度应相等 √
  * <p>
- * 3、验证，输入 A、a 返回 true
+ * 3、验证，输入 A、a 返回 true                                        √
  * <p>
- * 4、将字符放入 map，验证字符串是否相同，创建 IsomorphismCharacterMap
+ * 4、将字符放入 map，验证字符串是否相同，创建 IsomorphismCharacterMap   √
  */
 public class IsomorphismTest {
     @Test
